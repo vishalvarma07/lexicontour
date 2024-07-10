@@ -1,0 +1,11 @@
+LICENSE.txt
+setup.cfg
+setup.py
+lexicontour/__init__.py
+lexicontour/lexicontourfunctions.py
+lexicontour.egg-info/PKG-INFO
+lexicontour.egg-info/SOURCES.txt
+lexicontour.egg-info/dependency_links.txt
+lexicontour.egg-info/top_level.txt
+tests/__init__.py
+tests/test_lexicontour.py

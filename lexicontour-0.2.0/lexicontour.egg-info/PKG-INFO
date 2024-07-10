@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: lexicontour
+Version: 0.2.0
+Summary: Extracts contours and text from given document. Draws bounding regions over the first page of the document.
+Home-page: UNKNOWN
+Author: Divija Kanumury, Vishal Varma Kovoru, Pravardhitha Myneni
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+UNKNOWN
+
